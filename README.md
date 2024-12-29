@@ -1,4 +1,4 @@
-# Project Name
+# Bike Sharing Assignment
 This is a bike sharing assignment which involves programming where a model needs to be built on linear regression to predict the demand of the bike sharing business after Covid-19 lock down.
 
 
